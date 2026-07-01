@@ -131,6 +131,14 @@ You type ─► Tk main thread ─► request worker ──HTTP──► local L
 
 ---
 
+## Planned Updates/Developments:
+
+- **User Interface** — Direct selection options for TTS on/off (switch).
+- **Different Voices** — A (preset) way of matching Voice ID to characters, but keeping it modular, so all kinds of combinations are possible.
+- **Character Depth** — An easily accessible and editable format for adding/editing further background information like personal history, personality, beliefs or quirks.
+
+---
+
 ## License
 
 MIT — see `LICENSE`.
